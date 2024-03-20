@@ -12,9 +12,9 @@ Estoy dispuesto a aportar toda mi dedicación y esfuerzo para contribuir a las m
 
 <br />
 
-- 🔭 Actualmente estoy trabajando en Dicsys como **Desarrollador Backend**!
-- 📚  Mis principales habilidades duras son: **Go, Java Springboot, Python, SQL, RESTful APIs, Microservicios, Git, JUnit, Mockito**.
-- 🌱 Estoy abierto a aprender nuevas tecnologías. Me gustaría profundizar mis conocimientos y experiencia con **Go**.
+- 🔭 Actualmente estoy trabajando en Yuno como **Desarrollador Backend**!
+- 📚  Mis principales habilidades tecnicas son: **Go, Java, Python, RESTful APIs, Git**.
+- 🌱 Estoy abierto a aprender nuevas tecnologías. Aunque me gustaría profundizar mis conocimientos y experiencia en **Go**.
 - 📫 Podés contactarme en: **emarocha4@gmail.com**.
 - ⚡ Datos curiosos: me gusta practicar ciclismo, hacer ejercicio y leer cosas de mi interés.
 
